@@ -19,7 +19,8 @@ When installed alongside the modpack, this repository activates:
     - 🌓 Reborn Cam w/ NightVision
 
 - 🔁 **Struggle out of incapacitation & self-revive mod**  
-  - Modified version of *StruggleLeft4Dead* for solo play  
+  - Modified version of *StruggleLeft4Dead* made more forgiving for solo play
+  - Spam [SPACE BAR] to get up
   - Includes a tailored config file for balance and realism
 
 - 🤖 **Bot support for struggle/self-revive**  
