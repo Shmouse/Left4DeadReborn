@@ -18,9 +18,6 @@ When installed alongside the modpack, this repository activates:
     - 📸 Reborn Cam
     - 🌓 Reborn Cam w/ NightVision
 
-- ✅ **Custom configuration file setups** for all VScript-based mods in the collection  
-  *(Integrated into the balancing addon; pending full validation)*
-
 - ✅ **Custom configuration files for all SourceMod plugins**  
   *(Ensures consistent logic and behavior across all gameplay scenarios)*
 
