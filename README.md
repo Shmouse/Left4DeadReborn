@@ -27,7 +27,7 @@ When installed alongside the modpack, this repository activates:
   - Bots can now recover themselves using the same logic
 
 - ☠️ **Permanent death logic for players and bots**  
-  - Enforced via SourceMod scripting  
+  - Enforced by the server
   - No respawns once a survivor dies
 
 - 👻 **Dead players can take control of alive bots**  
