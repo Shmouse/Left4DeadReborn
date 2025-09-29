@@ -42,11 +42,10 @@ When installed alongside the modpack, this repository activates:
 ## 📦 Installation Instructions
 
 1. **Download this repository as a ZIP** from GitHub.
-2. **Extract the contents** of the ZIP file.
-3. Navigate to your L4D2 root directory (C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2)
-4. **Drag and drop** the extracted files directly into this directory.
+2. **Extract the contents** of the ZIP file to your L4D2 root directory 
+- C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2
 - The folder structure mirrors the L4D2 root for seamless integration.
-5. **Restart the game** and ensure SourceMod is active.
+3. **Start a game** and ensure SourceMod is active.
 
 ---
 
@@ -65,6 +64,6 @@ Steam Workshop restrictions prevent certain script types, plugin logic, and conf
 
 ## 💬 Feedback & Contributions
 
-If you encounter issues or want to contribute improvements, feel free to open an issue or submit a pull request. This system is modular by design—let’s evolve it together.
+If you encounter issues or want to contribute improvements do feel free to voice your opinion. These systems are modular by design—let’s evolve it together.
 
 
