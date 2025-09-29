@@ -3,7 +3,7 @@
 This repository contains **essential modifications** that cannot be distributed via the Steam Workshop due to platform limitations. These enhancements are designed to work **alongside the official [Left 4 Dead Reborn collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2845732576)** and unlock advanced gameplay logic, configuration control, and realism effects.
 
 > ⚠️ **SourceMod and ReShade is required** for installing this pack.  
-> Install SourceMod from the official site: [https://www.sourcemod.net/downloads.php](SourceMod.net)
+> Install SourceMod from the official site: [https://www.sourcemod.net/downloads.php](SourceMod.net)  
 > Install ReShade from the official site: [https://reshade.me/](ReShade.me)
 
 ---
