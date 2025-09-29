@@ -2,8 +2,9 @@
 
 This repository contains **essential modifications** that cannot be distributed via the Steam Workshop due to platform limitations. These enhancements are designed to work **alongside the official [Left 4 Dead Reborn collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2845732576)** and unlock advanced gameplay logic, configuration control, and realism effects.
 
-> ⚠️ **SourceMod is required** before installing this pack.  
-> Install SourceMod from the official site: [https://www.sourcemod.net/downloads.php](https://www.sourcemod.net/downloads.php)
+> ⚠️ **SourceMod and ReShade is required** for installing this pack.  
+> Install SourceMod from the official site: [https://www.sourcemod.net/downloads.php](SourceMod.net)
+> Install ReShade from the official site: [https://reshade.me/](ReShade.me)
 
 ---
 
@@ -49,9 +50,10 @@ When installed alongside the modpack, this repository activates:
 
 1. **Download this repository as a ZIP** from GitHub.
 2. **Extract the contents** of the ZIP file to your L4D2 root directory 
-- C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2
+- C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\
 - The folder structure mirrors the L4D2 root for seamless integration.
-3. **Start a game** and ensure SourceMod is active.
+3. **Install ReShade Shaders** by running the ReShade installer as normal but three times against all three config files, installing the "Normal" one last to make it the default.
+4. **Start the game** and ensure ReShade (HOME key) and SourceMod are active and working as intended ("sm plugins list" in the console **in-game**).
 
 ---
 
