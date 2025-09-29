@@ -18,9 +18,6 @@ When installed alongside the modpack, this repository activates:
     - 📸 Reborn Cam
     - 🌓 Reborn Cam w/ NightVision
 
-- ✅ **Custom configuration files for all SourceMod plugins**  
-  *(Ensures consistent logic and behavior across all gameplay scenarios)*
-
 - 🔁 **Struggle out of incapacitation & self-revive mod**  
   - Modified version of *StruggleLeft4Dead* for solo play  
   - Includes a tailored config file for balance and realism
@@ -40,6 +37,9 @@ When installed alongside the modpack, this repository activates:
   - Flashlight glitching increases with the draining battery
   - Shoving recharges the battery  
   - Adds immersive tension and tactical depth
+ 
+- ✅ **Custom configuration files for all the above plugins**  
+  *(Balanced and tested to match the envisioned Left 4 Dead Reborn atmosphere)*
 
 ---
 
