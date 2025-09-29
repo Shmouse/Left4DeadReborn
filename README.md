@@ -39,7 +39,7 @@ When installed alongside the modpack, this repository activates:
   - Adds immersive tension and tactical depth
  
 - ✅ **Custom configuration files for all the above plugins**  
-  *(Balanced and tested to match the envisioned Left 4 Dead Reborn atmosphere)*
+  *(Bespoke, balanced and tested to match the Left 4 Dead Reborn atmosphere)*
 
 ---
 
