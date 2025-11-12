@@ -15,8 +15,8 @@ When installed alongside the modpack, this repository activates:
 - 👁️ **Left 4 Dead Reborn ReShade**
   - **Three** Custom ReShade Presets (with effects folder)
     - 🏝️ Reborn
-    - 📸 Reborn Cam
-    - 🌓 Reborn Cam w/ NightVision
+    - 📸 Reborn Cam (Patreon Soon, WIP, see YT videos for progress)
+    - 🌓 Reborn Cam w/ NightVision (Patreon Soon, WIP, see YT videos for progress)
 
 - 🔁 **Struggle out of incapacitation & self-revive mod**  
   - Modified version of *StruggleLeft4Dead* made more forgiving for solo play
