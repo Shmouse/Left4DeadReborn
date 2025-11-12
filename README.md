@@ -13,7 +13,7 @@ This repository contains **essential modifications** that cannot be distributed 
 When installed alongside the modpack, this repository activates:
 
 - 👁️ **Left 4 Dead Reborn ReShade**
-  - **Three** Custom ReShade Presets (with effects folder)
+  - **Three** Custom ReShade Presets
     - 🏝️ Reborn
     - 📸 Reborn Cam (Patreon Soon, WIP, see YT videos for progress)
     - 🌓 Reborn Cam w/ NightVision (Patreon Soon, WIP, see YT videos for progress)
