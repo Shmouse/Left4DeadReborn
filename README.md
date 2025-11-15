@@ -61,8 +61,8 @@ When installed alongside the modpack, this repository activates:
 2. **Extract the contents** of the ZIP file to your L4D2 root directory 
 - C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\
 - The folder structure mirrors the L4D2 root for seamless integration.
-3. **Install ReShade Shaders** by running the ReShade installer as normal but three times against all three config files, installing the "Normal" one last to make it the default.
-4. **Start the game** and ensure ReShade (HOME key) and SourceMod are active and working as intended ("sm plugins list" in the console **in-game**).
+3. **Install ReShade Shaders** by running the ReShade installer as normal, selecting the .ini file provided when prompted.
+4. **Start the game** on a local server and ensure ReShade (HOME key) and SourceMod are active and working as intended ("sm plugins list" in the console **in-game only**).
 
 ---
 
