@@ -41,7 +41,19 @@ When installed alongside the modpack, this repository activates:
  
 - ✅ **Custom configuration files for all the above plugins**  
   *(Bespoke, balanced and tested to match the Left 4 Dead Reborn atmosphere)*
+  - **Including AutoExec Config**
+  - Optimal LERP values
+  - Disable default crosshair
+  - Disable default HUD
+  - Set weapon sway variables
+  - Set FOV
 
+- ✅ **Weapon Viewmodel Sway**  
+  - Creates a 'realistic' weapon sway effect on all weapon models (in "bin" folder)
+  - Source: https://github.com/flashintv/l4d2-viewmodel-lag-plugin
+
+
+  - 
 ---
 
 ## 📦 Installation Instructions
@@ -70,6 +82,10 @@ Steam Workshop restrictions prevent certain script types, plugin logic, and conf
 
 ## 💬 Feedback & Contributions
 
-If you encounter issues or want to contribute improvements do feel free to voice your opinion. These systems are modular by design—let’s evolve it together.
+If you encounter issues or want to contribute improvements do feel free to voice your opinion. These systems are modular by design, let’s evolve it together.
 
+Discord: @baldinstalled
+Youtube: https://www.youtube.com/@SassyOnline
+
+-​🇸​​🇦​​🇸​​🇸​​🇾​, ❤️
 
