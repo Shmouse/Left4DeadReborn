@@ -49,11 +49,9 @@ When installed alongside the modpack, this repository activates:
   - Set FOV
 
 - ✅ **Weapon Viewmodel Sway**  
-  - Creates a 'realistic' weapon sway effect on all weapon models (in "bin" folder)
+  - Creates a 'realistic' weapon sway effect on all weapon models (in 'bin' folder)
   - Source: https://github.com/flashintv/l4d2-viewmodel-lag-plugin
 
-
-  - 
 ---
 
 ## 📦 Installation Instructions
