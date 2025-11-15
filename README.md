@@ -43,11 +43,11 @@ When installed alongside the modpack, this repository activates:
 - ✅ **Custom configuration files for all the above plugins**  
   *(Bespoke, balanced and tested to match the Left 4 Dead Reborn atmosphere)*
   - **Including AutoExec Config**
-  - Optimal LERP values
-  - Disable default crosshair
-  - Disable default HUD
-  - Set weapon sway variables
-  - Set FOV
+    - Optimal LERP values
+    - Disable default crosshair
+    - Disable default HUD
+    - Set weapon sway variables
+    - Set FOV
 
 - ✅ **Weapon Viewmodel Sway**  
   - Creates a 'realistic' weapon sway effect on all weapon models, taken from the Half-Life series (in 'bin' folder)
