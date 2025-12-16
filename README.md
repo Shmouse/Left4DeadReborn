@@ -49,14 +49,14 @@ When installed alongside the modpack, this repository activates:
     - Set weapon sway variables
     - Set FOV
    
-- ✅ **Reborn Extraction-Shooter Loadout System**  
+- 🔫 **Reborn Extraction-Shooter Loadout System**  
   - A custom sourcemod script that;
     - Greatly reduces primary weapon spawning on any map.
     - Makes fallen survivors drop a random weapon. (Highly recommended to be combined with the Reborn balancing mod from the workshop pack, adds fallen survivor spawning to all maps in decent numbers).
     - Saves loadouts in the sourcemod data folder based on the character being played at the end of each chapter. (Also currently saves loadouts of bots to the character as well).
     - Loads loadouts at the beginning of a campaign.
    
-- ✅ **Reborn Memory Optimization**  
+- 🧠 **Reborn Memory Optimization**  
   - A custom sourcemod script that performs more intensive memory optimization techniques to help withstand the wild mods;
     - Entity Distance Culling (stop sending the client entity data on a network level);
       - Decals, Infected, Props, Particles, Ragdolls, Weapons & Items (map & ground) are all culled at varying distances.
@@ -64,11 +64,11 @@ When installed alongside the modpack, this repository activates:
     - Weapon & Item Cleanup (>3 of any one item in a 500 unit radius near the player, the extras are cleared based on spawn time).
     - [**Small video demonstration**](https://youtu.be/IenOUUywqqc)
 
-- ✅ **Weapon Viewmodel Sway**  
+- 🌊 **Weapon Viewmodel Sway**  
   - Creates a 'realistic' weapon sway effect on all weapon models, taken from the Half-Life series
   - Source: [https://github.com/flashintv/l4d2-viewmodel-lag-plugin](https://github.com/flashintv/l4d2-viewmodel-lag-plugin)
  
-- ✅ **Weapon Viewmodel Free Aim**  
+- 🎯 **Weapon Viewmodel Free Aim**  
   - Free Aim modification makes the viewmodel point directly where you aim and be independant of the camera itself, a huge improvement vs using sway and also has camera shake effects too.
   - Credits to Wabisuke for putting the time into doing this.
   - Source: [https://steamcommunity.com/sharedfiles/filedetails/?id=3614751096](https://steamcommunity.com/sharedfiles/filedetails/?id=3614751096)
