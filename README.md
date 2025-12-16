@@ -1,4 +1,4 @@
-# 🔧 Left 4 Dead Reborn – External Enhancements Pack
+# 🔧 Left 4 Dead Reborn 2.0 – External Enhancements Pack
 
 This repository contains **essential modifications** that cannot be distributed via the Steam Workshop due to platform limitations. These enhancements are designed to work **alongside the official [Left 4 Dead Reborn collection](https://steamcommunity.com/sharedfiles/filedetails/?id=2845732576)** and unlock advanced gameplay logic, configuration control, and realism effects.
 
