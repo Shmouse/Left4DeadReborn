@@ -48,6 +48,21 @@ When installed alongside the modpack, this repository activates:
     - Disable default HUD
     - Set weapon sway variables
     - Set FOV
+   
+- ✅ **Reborn Extraction-Shooter Loadout System**  
+  - A custom sourcemod script that;
+    - Greatly reduces primary weapon spawning on any map.
+    - Makes fallen survivors drop a random weapon. (Highly recommended to be combined with the Reborn balancing mod from the workshop pack, adds fallen survivor spawning to all maps in decent numbers).
+    - Saves loadouts in the sourcemod data folder based on the character being played at the end of each chapter. (Also currently saves loadouts of bots to the character as well).
+    - Loads loadouts at the beginning of a campaign.
+   
+- ✅ **Reborn Memory Optimization**  
+  - A custom sourcemod script that performs more intensive memory optimization techniques to help withstand the wild mods;
+    - Entity Distance Culling (stop sending the client entity data on a network level);
+      - Decals, Infected, Props, Particles, Ragdolls, Weapons & Items (map & ground) are all culled at varying distances.
+    - Decal Cleanup.
+    - Weapon & Item Cleanup (>3 of any one item in a 500 unit radius near the player, the extras are cleared based on spawn time).
+    - [**Small video demonstration**](https://youtu.be/IenOUUywqqc)
 
 - ✅ **Weapon Viewmodel Sway**  
   - Creates a 'realistic' weapon sway effect on all weapon models, taken from the Half-Life series
