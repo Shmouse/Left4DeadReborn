@@ -51,7 +51,12 @@ When installed alongside the modpack, this repository activates:
 
 - ✅ **Weapon Viewmodel Sway**  
   - Creates a 'realistic' weapon sway effect on all weapon models, taken from the Half-Life series (in 'bin' folder)
-  - Source: https://github.com/flashintv/l4d2-viewmodel-lag-plugin
+  - Source: [https://github.com/flashintv/l4d2-viewmodel-lag-plugin](https://github.com/flashintv/l4d2-viewmodel-lag-plugin)
+ 
+- ✅ **Weapon Viewmodel Free Aim**  
+  - Free Aim modification makes the viewmodel point directly where you aim and be independant of the camera itself, a huge improvement vs using sway and also has camera shake effects too.
+  - Credits to Wabisuke for putting the time into doing this.
+  - Source: [https://steamcommunity.com/sharedfiles/filedetails/?id=3614751096](https://steamcommunity.com/sharedfiles/filedetails/?id=3614751096)
 
 ---
 
@@ -76,7 +81,7 @@ When installed alongside the modpack, this repository activates:
 
 ## 🧠 Why This Exists
 
-Steam Workshop restrictions prevent certain script types, plugin logic, and config files from being distributed directly, I also don't want to flood the workshop description with any more junk. This pack ensures that all gameplay enhancements envisioned in the Reborn collection are fully realized.
+Steam Workshop restrictions prevent certain script types, sourcemod plugins, and config files from being distributed directly via Workshop, I also don't want to flood the workshop description with any more junk. This pack ensures that all gameplay enhancements envisioned in the Reborn collection are fully realised.
 
 ---
 
