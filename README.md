@@ -56,6 +56,7 @@ When installed alongside the modpack, this repository activates:
     - Saves loadouts in the sourcemod data folder based on the character being played at the end of each chapter. (Also currently saves loadouts of bots to the character as well).
     - Loads loadouts at the beginning of a campaign.
     - Clears loadouts on death.
+    - Kicked to Main Menu instantly on chapter failure.
    
 - 🧠 **Reborn Memory Optimization**  
   - A custom sourcemod script that performs more intensive memory optimization techniques to help withstand the wild mods;
