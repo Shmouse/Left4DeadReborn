@@ -55,6 +55,7 @@ When installed alongside the modpack, this repository activates:
     - Makes fallen survivors drop a random weapon. (Highly recommended to be combined with the Reborn balancing mod from the workshop pack, adds fallen survivor spawning to all maps in decent numbers).
     - Saves loadouts in the sourcemod data folder based on the character being played at the end of each chapter. (Also currently saves loadouts of bots to the character as well).
     - Loads loadouts at the beginning of a campaign.
+    - Clears loadouts on death.
    
 - 🧠 **Reborn Memory Optimization**  
   - A custom sourcemod script that performs more intensive memory optimization techniques to help withstand the wild mods;
@@ -62,6 +63,8 @@ When installed alongside the modpack, this repository activates:
       - Decals, Infected, Props, Particles, Ragdolls, Weapons & Items (map & ground) are all culled at varying distances.
     - Decal Cleanup.
     - Weapon & Item Cleanup (>3 of any one item in a 500 unit radius near the player, the extras are cleared based on spawn time).
+    - Sound culling at distance.
+    - Per-frame sound limiting.
     - [**Small video demonstration**](https://youtu.be/IenOUUywqqc)
 
 - 🌊 **Weapon Viewmodel Sway**  
